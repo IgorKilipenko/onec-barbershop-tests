@@ -1,0 +1,16 @@
+﻿New: Catalog.Контрагенты
+New: Catalog.Номенклатура
+New: Catalog.Пользователи
+New: Catalog.Сотрудники
+New: CommonModule.Тест_Документы
+New: CommonModule.Тест_Документы.Module
+New: CommonModule.Тест_ЗаписьКлиента
+New: CommonModule.Тест_ЗаписьКлиента.Module
+New: DefinedType.КоличествоУслуг
+New: DefinedType.ФинансовыеДанные
+New: Document.ЗаписьКлиента
+New: Enum.ВидыЦенПродажи
+New: Enum.ТипыКонтрагентов
+New: Enum.ТипыНоменклатуры
+New: InformationRegister.ЦеныНоменклатуры
+Modified: Configuration.Тестирование

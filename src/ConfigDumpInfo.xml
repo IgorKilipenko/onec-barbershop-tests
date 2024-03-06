@@ -1,9 +1,52 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="7ced4020-84e8-496d-96fd-163865a2a66b" configVersion="bce4fbfd8aac6cebb81d6e9e4a9545c767e048a5">
+			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="c7120c74-c860-4753-a11c-71f9fac5c8d8"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="4eaaa358-572b-4884-9cb5-4d17cc97644c" configVersion="a61188f18345f1ca9b34d12c476173cb3a61c3cb">
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="1292fc2f-6e7c-4925-9753-7df01615908a"/>
+		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="ea6178e1-622e-4f85-90d7-3f3099a029ed" configVersion="1c4c351bac6ed92a1bc4cbfb9ba9e20318c2073c"/>
+		<Metadata name="Catalog.Сотрудники" id="2912c037-1907-4b9c-b25a-07d8bed081df" configVersion="5678ce72f5a88da2470f2235d067ffc30967a3e8"/>
+		<Metadata name="CommonModule.Тест_Документы" id="98754612-8fa2-4ca7-9fc2-6ef1e777b738" configVersion="15dba4ae841b63822c63dc781feae8a3465a2365"/>
+		<Metadata name="CommonModule.Тест_Документы.Module" id="98754612-8fa2-4ca7-9fc2-6ef1e777b738.0" configVersion="503a35527ff0f73d1494e8fe6834935788350762"/>
+		<Metadata name="CommonModule.Тест_ЗаписьКлиента" id="3a0219e3-f15d-4cdb-9fda-a982237c9175" configVersion="78d0e2f7ed3a458f16f29ac6919fdfe2ebfac875"/>
+		<Metadata name="CommonModule.Тест_ЗаписьКлиента.Module" id="3a0219e3-f15d-4cdb-9fda-a982237c9175.0" configVersion="9866e5b2d04549cdcaba30451394d7dc2a5e3554"/>
 		<Metadata name="CommonModule.Тест_ОбщийКлиентСервер" id="1f662997-14ff-4dd6-a619-34493c8c788a" configVersion="52fd1a2eef26cbfb01a550a69240a8acdef9006e"/>
 		<Metadata name="CommonModule.Тест_ОбщийКлиентСервер.Module" id="1f662997-14ff-4dd6-a619-34493c8c788a.0" configVersion="df95e2ee8a592c9446352397bd0946d9762529d0"/>
-		<Metadata name="Configuration.Тестирование" id="19e00452-fcc3-4b24-ba9a-6f5c70eb76e6" configVersion="06234d8e6fb79618a71153e2e27076c1b0404720"/>
+		<Metadata name="Configuration.Тестирование" id="19e00452-fcc3-4b24-ba9a-6f5c70eb76e6" configVersion="aa6cdbbc893c8dcb64934a6ee71756f423547f00"/>
+		<Metadata name="DefinedType.КоличествоУслуг" id="b8202f62-f5d8-4d45-b1ab-72bc248fa1cc" configVersion="95464c8425676cb06178fb8aec3fd4e875a3f12f"/>
+		<Metadata name="DefinedType.ФинансовыеДанные" id="a6771bce-f24a-4b9e-b0b4-c7ec88909cbb" configVersion="6cde280771c3d5f5d24e07066ff81c6517a086c2"/>
+		<Metadata name="Document.ЗаписьКлиента" id="8eb09ca4-e7fe-4ee9-9140-6f51d43b6d25" configVersion="9d248c6e9ba6d8eb3916ec6a311c1cde6b899ac6">
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Сумма" id="26c3b40a-e25f-4e66-b06c-b58e8406dd7f"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.АвторДокумента" id="2c6173b1-1514-48fa-8423-66d6de9fe617"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Клиент" id="496d650b-73fb-4229-9cf6-bf66a96d7514"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Комментарий" id="55e11fb1-00a6-4345-8a22-bfe3a1493293"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="9d4eed5a-d592-483b-9133-6decf0bc8135"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="a571f044-50b7-4ff3-b5c9-a08b417b01d3"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Цена" id="a6997778-7f25-4613-8ae1-4a1956a32670"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаЗаписи" id="b81492e6-57bb-4866-a64e-97b069af342a"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Количество" id="bb98701b-b369-4361-8c95-8fe9f2979ab5"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.УслугаОказана" id="c2da7218-44f3-4efc-ab92-92d0485fe596"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Номенклатура" id="d88176b1-92fe-428d-8ceb-b868a99ff5ee"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаОкончанияЗаписи" id="df74ed73-d947-447b-8703-2e9b3f280013"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыЦенПродажи" id="17f1a1d8-6cf3-4a29-875d-93d093263ce7" configVersion="69c14a0dbdd52ee1746fd4793b739fe3c8de5871">
+			<Metadata name="Enum.ВидыЦенПродажи.EnumValue.РозничнаяЦена" id="21e5c67b-6ebe-49b2-947e-da11c82b3fe4"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыКонтрагентов" id="96e30441-688c-452f-99b9-4cd3bc9a0620" configVersion="655aa28bd50ad5a554bd32bcee627dd65448adba">
+			<Metadata name="Enum.ТипыКонтрагентов.EnumValue.Клиент" id="982bc26a-58d5-47d2-9cb6-24f01283b2e8"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыНоменклатуры" id="161d9a7f-677c-4db4-a609-6e3d79f70310" configVersion="b84068fd41e45810ab86e53a5c5b9cb803fbaafa">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="2fa93d8a-52bc-4b1c-b6f4-243b836d3c41"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Услуга" id="bf19af12-b253-46fa-81f3-4d737afc048d"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="000c84e6-74f6-4441-b733-72552c78a13d" configVersion="7035f38145497b00bc5a718e6f3c032ba5b0648c">
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="99a15fec-2fba-4d92-893a-796abf78d72b"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="d2278a93-6aa8-4227-802f-8c3a1a38474e"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="fbec949b-4e98-4d7f-8129-6fe96dd25ba0"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="e76d0641-6847-4b96-91d1-1f997bad9a82" configVersion="c8ade52cfe31db881d3892f9bda150354b7cef95"/>
 		<Metadata name="Role.Тест_ОсновнаяРоль" id="795f4ec7-c80d-4f7b-b978-bf9fdfd47821" configVersion="6e984111198f9ac6ef7025b89657099512933dfa"/>
 	</ConfigVersions>

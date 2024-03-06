@@ -67,6 +67,19 @@
 			<Language>Русский</Language>
 			<Role>Тест_ОсновнаяРоль</Role>
 			<CommonModule>Тест_ОбщийКлиентСервер</CommonModule>
+			<CommonModule>Тест_Документы</CommonModule>
+			<CommonModule>Тест_ЗаписьКлиента</CommonModule>
+			<DefinedType>ФинансовыеДанные</DefinedType>
+			<DefinedType>КоличествоУслуг</DefinedType>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Сотрудники</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Document>ЗаписьКлиента</Document>
+			<Enum>ТипыНоменклатуры</Enum>
+			<Enum>ВидыЦенПродажи</Enum>
+			<Enum>ТипыКонтрагентов</Enum>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
