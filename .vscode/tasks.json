@@ -74,6 +74,8 @@
                 "Администратор",
                 "-p",
                 "Секрет",
+                "-e",
+                "Тестирование",
                 "~/Documents/_onec_dbs/barbershop-db_tests/storage",
                 "${workspaceRoot}/src"
             ],
